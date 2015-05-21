@@ -1,0 +1,226 @@
+D:\C# Projects\C# 2012\CPR\CPR\bin\Debug\CPR.exe.config
+D:\C# Projects\C# 2012\CPR\CPR\bin\Debug\CPR.exe
+D:\C# Projects\C# 2012\CPR\CPR\bin\Debug\CPR.pdb
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\CPR.Properties.Resources.resources
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\CPR.exe
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\CPR.pdb
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\CPR.Form1.resources
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\Interop.MLApp.dll
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\CPR.csproj.ResolveComReference.cache
+D:\C# Projects\C# 2012\CPR\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+D:\C# Projects\C# 2012\CPR - 4Dimension\CPR\bin\Debug\CPR.exe.config
+D:\C# Projects\C# 2012\CPR - 4Dimension\CPR\obj\Debug\Interop.MLApp.dll
+D:\C# Projects\C# 2012\CPR - 4Dimension\CPR\obj\Debug\CPR.csproj.ResolveComReference.cache
+D:\C# Projects\C# 2012\CPR - 4Dimension\CPR\obj\Debug\CPR.exe
+D:\C# Projects\C# 2012\CPR - 4Dimension\CPR\obj\Debug\CPR.pdb
+I:\CPR - 4Dimension\CPR\bin\Debug\CPR.exe.config
+I:\CPR - 4Dimension\CPR\obj\Debug\Interop.MLApp.dll
+I:\CPR - 4Dimension\CPR\obj\Debug\CPR.csproj.ResolveComReference.cache
+I:\CPR - 4Dimension\CPR\obj\Debug\CPR.exe
+I:\CPR - 4Dimension\CPR\obj\Debug\CPR.pdb
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\bin\Debug\CPR.exe.config
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\Interop.MLApp.dll
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\CPR.csproj.ResolveComReference.cache
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\CPR.exe
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\CPR.pdb
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\bin\Debug\CPR.exe
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\bin\Debug\CPR.pdb
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Weapon\Desktop\CPR - 4Dimension\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\bin\Debug\CPR.exe.config
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\Interop.MLApp.dll
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.csproj.ResolveComReference.cache
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.exe
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.pdb
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\bin\Debug\CPR.exe
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\bin\Debug\CPR.pdb
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Weapon\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\Interop.MLApp.dll
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.csproj.ResolveComReference.cache
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\bin\Debug\CPR.exe
+C:\Users\Aiden\Desktop\CPR - UniEdition\CPR\bin\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\bin\Debug\CPR.application
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\bin\Debug\CPR.exe
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\bin\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.application
+C:\Users\Aiden\Desktop\CPR - UniEdition - Copy\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\bin\Debug\CPR.exe.config
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\bin\Debug\CPR.application
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\bin\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\bin\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\CPR - UniEdition - Copy - Copy\CPR\obj\Debug\CPR.application
+C:\Users\AI Mas\Desktop\CPR\CPR\bin\Debug\CPR.exe.config
+C:\Users\AI Mas\Desktop\CPR\CPR\obj\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\CPR\CPR\obj\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\bin\Debug\CPR.exe.config
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\bin\Debug\CPR.application
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\bin\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\bin\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.application
+C:\Users\AI Mas\Desktop\CPR - Copy\CPR\obj\Debug\CPR.ResultForm.resources
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\bin\Debug\CPR.exe.config
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\bin\Debug\CPR.application
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\bin\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\bin\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.ResultForm.resources
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\CPR-Final\CPR\obj\Debug\CPR.application
+C:\Users\Aiden\Desktop\CPR-Final\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\CPR-Final\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\CPR-Final\CPR\bin\Debug\CPR.application
+C:\Users\Aiden\Desktop\CPR-Final\CPR\bin\Debug\CPR.exe
+C:\Users\Aiden\Desktop\CPR-Final\CPR\bin\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.ResultForm.resources
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\CPR-Final\CPR\obj\Debug\CPR.application
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\bin\Debug\CPR.exe.config
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\bin\Debug\CPR.application
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\bin\Debug\CPR.exe
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\bin\Debug\CPR.pdb
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.ResultForm.resources
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\AI Mas\Desktop\Double Chicking\CPR\obj\Debug\CPR.application
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\bin\Debug\CPR.application
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\bin\Debug\CPR.exe
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\bin\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.application
+I:\pr Vs cpr\CPR\bin\Debug\CPR.exe.config
+I:\pr Vs cpr\CPR\obj\Debug\CPR.exe
+I:\pr Vs cpr\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\bin\Debug\CPR.application
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\bin\Debug\CPR.exe
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\bin\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.application
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.DecisionForm.resources
+C:\Users\Aiden\Desktop\Infos\pr Vs cpr\CPR\obj\Debug\CPR.BaysianNashesForm.resources
+C:\Users\Aiden\Desktop\Infos - Copy (3)\pr Vs cpr\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\Infos - Copy (3)\pr Vs cpr\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\Infos - Copy (3)\pr Vs cpr\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\bin\Debug\CPR.application
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\bin\Debug\CPR.exe
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\bin\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.BaysianNashesForm.resources
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.DecisionForm.resources
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\Infos Original\pr Vs cpr\CPR\obj\Debug\CPR.application
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\bin\Debug\CPR.exe.config
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.exe
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\bin\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\bin\Debug\CPR.application
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\bin\Debug\CPR.exe
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\bin\Debug\CPR.pdb
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.csprojResolveAssemblyReference.cache
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.AllNashesForm.resources
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.BaysianNashesForm.resources
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.DecisionForm.resources
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.Form1.resources
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.InputForm.resources
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.Properties.Resources.resources
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.csproj.GenerateResource.Cache
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.exe.manifest
+C:\Users\Aiden\Desktop\InstallFile\pr Vs cpr\CPR\obj\Debug\CPR.application
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.BaysianNashesForm.resources
+C:\Users\Aiden\Desktop\pr Vs cpr\CPR\obj\Debug\CPR.DecisionForm.resources
+C:\Users\Ali\Desktop\InstallFile1\pr Vs cpr\CPR\bin\Debug\CPR.exe.config
+C:\Users\Ali\Desktop\InstallFile1\pr Vs cpr\CPR\obj\Debug\CPR.exe
+C:\Users\Ali\Desktop\InstallFile1\pr Vs cpr\CPR\obj\Debug\CPR.pdb
